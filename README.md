@@ -34,4 +34,5 @@ This is proportional to the number of votes each institution gets. Half of the v
 ## How can I join the community?
 
 You can join us on Telegram: 
+
 You can also join us on Discord:
